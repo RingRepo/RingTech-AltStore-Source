@@ -6,9 +6,20 @@
   "headerURL": "https://raw.githubusercontent.com/RingRepo/RingTech-AltStore-Source/refs/heads/main/182797714.png",
   "tintColor": "#FFD700",
   "featuredApps": [
-    "",
-    ""
+    "com.kdt.livecontainer",
   ],
-  "apps": [],
+  "apps": [  
+    {
+    "name": "LiveContainer",
+    "bundleIdentifier": "com.kdt.livecontainer",
+    "developerName": "khanhduytran0/HugeBlack",
+    "version": "3.1.0",
+    "versionDate": "2024-11-29",
+    "downloadURL": "https://github.com/RingRepo/RingTech-AltStore-Source/releases/download/all-ipas/com.kdt.livecontainer_3.1.0.ipa",
+    "localizedDescription": "ONLY FOR SIDESTORE AND ALTSTORE!\n\nAllows you to bypass Apple's 3 app limit using this sideloading method by running unsigned apps.\n\nStatus: ✅🔥",
+    "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/LiveContainer_2.0.png",
+    "size": 2724711
+    },
+  ],
   "news": [],
 }
