@@ -1,5 +1,7 @@
 {
   "name": "RingTech AltStore Source",
+  "identifier": "ringtech.org",
+  "sourceURL": "https://raw.githubusercontent.com/RingRepo/RingTech-AltStore-Source/refs/heads/main/altstore-source.json",
   "subtitle": "The official AltStore Source for RingTech!",
   "description": "Welcome to RingTech's official AltStore Source, with new apps daily!",
   "iconURL": "https://raw.githubusercontent.com/RingRepo/RingTech-AltStore-Source/refs/heads/main/182797714.png",
